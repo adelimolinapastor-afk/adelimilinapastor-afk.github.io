@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260425162309SSTF9G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260425162309R2AUDI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SITUACIÓN DE APRENDIZAJE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LUCES, CÁMARA...¡APRENDEMOS!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ADELA MOLINA PASTOR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SItuación de Aprendizaje para segundo ciclo de educación infantil (4 años).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776886582998</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ccdde8bf-938a-4bba-90e8-f9c1206ef054</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de aprendozaje &quot;Luces, cámara...¡Aprendemos!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendozaje &quot;Luces, cámara...¡Aprendemos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de aprendozaje &quot;Luces, cámara...¡Aprendemos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendozaje &quot;Luces, cámara...¡Aprendemos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>ccdde8bf-938a-4bba-90e8-f9c1206ef054</odePageId>
+      <odeBlockId>block-1776886688505-nukoqzhts</odeBlockId>
+      <blockName>Información</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>ccdde8bf-938a-4bba-90e8-f9c1206ef054</odePageId>
+          <odeBlockId>block-1776886688505-nukoqzhts</odeBlockId>
+          <odeIdeviceId>idevice-1776886688495-nvtuy4f23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración: 45:00 minutos">Duración: 45:00 minutos</span></dt><dd>45:00 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento: Pequeño grupo">Agrupamiento: Pequeño grupo</span></dt><dd>Todo el grupo</dd></div></dl><p><a href="https://www.canva.com/design/DAHHNwKzsdU/wA6BOAn5srMJrW6usWjnWg/edit" title="Luces, Cámara...¡Aprendemos!">PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO.</a></p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/12o4ARhXigEPA0U6NbvWRc_n4UnX-u7o7/view" title="Protección de datos">PROTECCIÓN DE DATOS. </a></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776886688495-nvtuy4f23","textInfoDurationInput":"45:00 minutos","textInfoDurationTextInput":"Duración: 45:00 minutos","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento: Pequeño grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración: 45:00 minutos\">Duración: 45:00 minutos</span></dt><dd>45:00 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento: Pequeño grupo\">Agrupamiento: Pequeño grupo</span></dt><dd>Todo el grupo</dd></div></dl><p><a href=\"https://www.canva.com/design/DAHHNwKzsdU/wA6BOAn5srMJrW6usWjnWg/edit\" title=\"Luces, Cámara...¡Aprendemos!\">PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO.</a></p>\n<p></p>\n<p><a href=\"https://drive.google.com/file/d/12o4ARhXigEPA0U6NbvWRc_n4UnX-u7o7/view\" title=\"Protección de datos\">PROTECCIÓN DE DATOS. </a></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776890756876-myvay5zh0</odePageId>
+  <odeParentPageId>ccdde8bf-938a-4bba-90e8-f9c1206ef054</odeParentPageId>
+  <pageName>SITUACIÓN DE APRENDIZAJE</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1776890764430-sws6c2sbx</odeBlockId>
+      <blockName>PRESENTACIÓN DEL PROYECTO</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1776890764430-sws6c2sbx</odeBlockId>
+          <odeIdeviceId>idevice-1776890764426-hcf0j2usz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>"Luces, cámara... ¡Aprendemos!"</strong><br /><strong>1. El Cine como Ventana al Mundo y Centro de Interés</strong><br />La presente Situación de Aprendizaje nace de la curiosidad innata de los niños y niñas de 4 años por el mundo audiovisual que los rodea. El cine se convierte en un eje globalizador que permite integrar las tres áreas de la etapa: Crecimiento en Armonía, Descubrimiento y Exploración del Entorno y Comunicación y Representación de la Realidad.</p>
+<p>No se trata solo de visionar cine, sino de de construir el lenguaje audiovisual para que el alumnado pase de ser un espectador pasivo a un creador crítico y creativo.</p>
+<p><strong>2. Fundamentación Pedagógica y Valor del Producto Final</strong><br />La creación de un cortometraje como producto final responde a la necesidad de un aprendizaje basado en proyectos (ABP) y en el hacer (Learning by Doing). Según autores como Bruner, el aprendizaje es más profundo cuando el niño se involucra en la construcción de un producto tangible.</p>
+<p>Este proyecto justifica su relevancia a través de tres dimensiones:</p>
+<p><strong>Dimensión Expresiva:</strong> El cortometraje obliga a trabajar el lenguaje corporal, la modulación de la voz y la gestión de las emociones a través de la dramatización.<br /><strong>Dimensión Social:</strong> El cine es, por definición, un arte colectivo. En el nivel de 4 años, esto fomenta la interdependencia positiva (Johnson &amp; Johnson), donde cada rol (actor, cámara, técnico de sonido, decorador) es vital para el éxito del grupo.<br /><strong>Dimensión Alfabetizadora:</strong> En una sociedad digital, iniciar a los 4 años en el lenguaje de los planos, la luz y la narrativa visual supone una primera alfabetización mediática esencial.<br /><strong>3. Conexión con el Desarrollo Evolutivo</strong><br />A los 4 años, el alumnado se encuentra en plena transición del pensamiento egocéntrico a una mayor apertura social. Participar en la grabación de un corto les permite:</p>
+<p><strong>Desarrollar la teoría de la mente:</strong> Al ponerse en la piel de personajes.<br /><strong>Fomentar la función ejecutiva:</strong> Planificar qué escena va primero y cuál después (secuenciación temporal).<br /><strong>Potenciar la autoestima:</strong> Al verse reflejados en una obra final que será compartida con su comunidad educativa (familia y escuela).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776890764426-hcf0j2usz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>\"Luces, cámara... ¡Aprendemos!\"</strong><br /><strong>1. El Cine como Ventana al Mundo y Centro de Interés</strong><br />La presente Situación de Aprendizaje nace de la curiosidad innata de los niños y niñas de 4 años por el mundo audiovisual que los rodea. El cine se convierte en un eje globalizador que permite integrar las tres áreas de la etapa: Crecimiento en Armonía, Descubrimiento y Exploración del Entorno y Comunicación y Representación de la Realidad.</p>\n<p>No se trata solo de visionar cine, sino de de construir el lenguaje audiovisual para que el alumnado pase de ser un espectador pasivo a un creador crítico y creativo.</p>\n<p><strong>2. Fundamentación Pedagógica y Valor del Producto Final</strong><br />La creación de un cortometraje como producto final responde a la necesidad de un aprendizaje basado en proyectos (ABP) y en el hacer (Learning by Doing). Según autores como Bruner, el aprendizaje es más profundo cuando el niño se involucra en la construcción de un producto tangible.</p>\n<p>Este proyecto justifica su relevancia a través de tres dimensiones:</p>\n<p><strong>Dimensión Expresiva:</strong> El cortometraje obliga a trabajar el lenguaje corporal, la modulación de la voz y la gestión de las emociones a través de la dramatización.<br /><strong>Dimensión Social:</strong> El cine es, por definición, un arte colectivo. En el nivel de 4 años, esto fomenta la interdependencia positiva (Johnson &amp; Johnson), donde cada rol (actor, cámara, técnico de sonido, decorador) es vital para el éxito del grupo.<br /><strong>Dimensión Alfabetizadora:</strong> En una sociedad digital, iniciar a los 4 años en el lenguaje de los planos, la luz y la narrativa visual supone una primera alfabetización mediática esencial.<br /><strong>3. Conexión con el Desarrollo Evolutivo</strong><br />A los 4 años, el alumnado se encuentra en plena transición del pensamiento egocéntrico a una mayor apertura social. Participar en la grabación de un corto les permite:</p>\n<p><strong>Desarrollar la teoría de la mente:</strong> Al ponerse en la piel de personajes.<br /><strong>Fomentar la función ejecutiva:</strong> Planificar qué escena va primero y cuál después (secuenciación temporal).<br /><strong>Potenciar la autoestima:</strong> Al verse reflejados en una obra final que será compartida con su comunidad educativa (familia y escuela).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1776891623595-flz9gm8o1</odeBlockId>
+      <blockName>DESCRIPCIÓN DEL PROYECTO</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1776891623595-flz9gm8o1</odeBlockId>
+          <odeIdeviceId>idevice-1776891623591-r05xlhpac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título:</strong> Luces, Cámara… ¡Aprendemos!</p>
+<p><strong>Etapa:</strong> Segundo Ciclo de Educación Infantil</p>
+<p><strong>Nivel</strong>: 4 años<br /><strong>Producto final:</strong> Creación de cortometrajes<br /><strong>Herramientas:</strong> Tablets y Pixabay</p>
+<p><br /><strong>1. Herramientas Digitales Propuestas</strong><br />Para la realización del producto final, utilizaremos una combinación de dos herramientas:</p>
+<p><strong>Pixabay</strong>: Como banco de recursos para obtener música, efectos de sonido y clips de apoyo.<br /><strong>Editor de vídeo para Tablet iMovie:</strong> Como herramienta de montaje y ensamblaje final.</p>
+<p><br /><strong>2. Objetivo </strong><br />El objetivo es que el alumnado de Infantil experimente el proceso completo de producción audiovisual. Se busca que aprendan a buscar recursos sonoros y visuales que complementen sus propias grabaciones para generar emociones, utilizando la interfaz táctil de la tablet para montar las escenas, ajustar el sonido y añadir títulos de forma intuitiva, todo ello con ayuda del docente.</p>
+<p><strong>3. Justificación de la elección</strong><br />Esta propuesta se adapta idealmente a la etapade Infantil por los siguientes motivos:</p>
+<p>I<strong>nteracción Táctica y Motivación:</strong> Los niños de esta edad presentan destreza con dispositivos táctiles. El uso de la tablet permite que el montaje del cortometraje sea una experiencia física y directa (cortar y mover clips con los dedos), lo que resulta muy motivador para ellos/as.<br /><strong>Versatilidad del Flujo de Trabajo:</strong> La combinación es excelente; los alumnos pueden grabar sus escenas con la cámara de la tablet, descargar un efecto de sonido de lluvia o una música de suspense en Pixabay, e integrarlo todo al instante en el editor.<br /><strong>Contexto y Disponibilidad: </strong>La mayoría de los centros actuales cuentan con dotación de tablets. Al ser aplicaciones ligeras, permiten trabajar por grupos de forma autónoma en cualquier espacio del aula o del centro.<br /><strong>Competencia Digital y Ética:</strong> El uso de Pixabay es clave para trabajar el respeto a los derechos de autor desde edades tempranas. En lugar de usar cualquier canción de moda que pueda ser bloqueada por copyright, aprenden a seleccionar música libre, entendiendo el valor de las licencias abiertas y la calidad del audio en una producción profesional.<br /><strong>Adaptación a la Edad: </strong>Los editores de tablet están diseñados para resultados rápidos y visuales. Esto permite que, en una sola sesión, los alumnos vean resultados tangibles, manteniendo su atención.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776891623591-r05xlhpac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título:</strong> Luces, Cámara… ¡Aprendemos!</p>\n<p><strong>Etapa:</strong> Segundo Ciclo de Educación Infantil</p>\n<p><strong>Nivel</strong>: 4 años<br /><strong>Producto final:</strong> Creación de cortometrajes<br /><strong>Herramientas:</strong> Tablets y Pixabay</p>\n<p><br /><strong>1. Herramientas Digitales Propuestas</strong><br />Para la realización del producto final, utilizaremos una combinación de dos herramientas:</p>\n<p><strong>Pixabay</strong>: Como banco de recursos para obtener música, efectos de sonido y clips de apoyo.<br /><strong>Editor de vídeo para Tablet iMovie:</strong> Como herramienta de montaje y ensamblaje final.</p>\n<p><br /><strong>2. Objetivo </strong><br />El objetivo es que el alumnado de Infantil experimente el proceso completo de producción audiovisual. Se busca que aprendan a buscar recursos sonoros y visuales que complementen sus propias grabaciones para generar emociones, utilizando la interfaz táctil de la tablet para montar las escenas, ajustar el sonido y añadir títulos de forma intuitiva, todo ello con ayuda del docente.</p>\n<p><strong>3. Justificación de la elección</strong><br />Esta propuesta se adapta idealmente a la etapade Infantil por los siguientes motivos:</p>\n<p>I<strong>nteracción Táctica y Motivación:</strong> Los niños de esta edad presentan destreza con dispositivos táctiles. El uso de la tablet permite que el montaje del cortometraje sea una experiencia física y directa (cortar y mover clips con los dedos), lo que resulta muy motivador para ellos/as.<br /><strong>Versatilidad del Flujo de Trabajo:</strong> La combinación es excelente; los alumnos pueden grabar sus escenas con la cámara de la tablet, descargar un efecto de sonido de lluvia o una música de suspense en Pixabay, e integrarlo todo al instante en el editor.<br /><strong>Contexto y Disponibilidad: </strong>La mayoría de los centros actuales cuentan con dotación de tablets. Al ser aplicaciones ligeras, permiten trabajar por grupos de forma autónoma en cualquier espacio del aula o del centro.<br /><strong>Competencia Digital y Ética:</strong> El uso de Pixabay es clave para trabajar el respeto a los derechos de autor desde edades tempranas. En lugar de usar cualquier canción de moda que pueda ser bloqueada por copyright, aprenden a seleccionar música libre, entendiendo el valor de las licencias abiertas y la calidad del audio en una producción profesional.<br /><strong>Adaptación a la Edad: </strong>Los editores de tablet están diseñados para resultados rápidos y visuales. Esto permite que, en una sola sesión, los alumnos vean resultados tangibles, manteniendo su atención.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777063291183-y12kgehgc</odeBlockId>
+      <blockName>DESCRIPCIÓN DEL PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777063291183-y12kgehgc</odeBlockId>
+          <odeIdeviceId>idevice-1777063291178-eja6l4bt0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: Luces, Cámara… ¡Aprendemos!<br />Producto final: Creación de cortometrajes<br />Herramientas: Tablets y Pixabay<br />1. Herramientas Digitales Propuestas<br />Para la realización del producto final, utilizaremos una combinación de dos herramientas:</p>
+<p>Pixabay: Como banco de recursos para obtener música, efectos de sonido y clips de apoyo.<br />Editor de vídeo para Tablet iMovie: Como herramienta de montaje y ensamblaje final.<br />2. Objetivo <br />El objetivo es que el alumnado de Infantil experimente el proceso completo de producción audiovisual. Se busca que aprendan a buscar recursos sonoros y visuales que complementen sus propias grabaciones para generar emociones, utilizando la interfaz táctil de la tablet para montar las escenas, ajustar el sonido y añadir títulos de forma intuitiva, todo ello con ayuda del docente.</p>
+<p>3. Justificación de la elección<br />Esta propuesta se adapta idealmente a la etapade Infantil por los siguientes motivos:</p>
+<p>Interacción Táctica y Motivación: Los niños de esta edad presentan destreza con dispositivos táctiles. El uso de la tablet permite que el montaje del cortometraje sea una experiencia física y directa (cortar y mover clips con los dedos), lo que resulta muy motivador para ellos/as.<br />Versatilidad del Flujo de Trabajo: La combinación es excelente; los alumnos pueden grabar sus escenas con la cámara de la tablet, descargar un efecto de sonido de lluvia o una música de suspense en Pixabay, e integrarlo todo al instante en el editor.<br />Contexto y Disponibilidad: La mayoría de los centros actuales cuentan con dotación de tablets. Al ser aplicaciones ligeras, permiten trabajar por grupos de forma autónoma en cualquier espacio del aula o del centro.<br />Competencia Digital y Ética: El uso de Pixabay es clave para trabajar el respeto a los derechos de autor desde edades tempranas. En lugar de usar cualquier canción de moda que pueda ser bloqueada por copyright, aprenden a seleccionar música libre, entendiendo el valor de las licencias abiertas y la calidad del audio en una producción profesional.<br />Adaptación a la Edad: Los editores de tablet están diseñados para resultados rápidos y visuales. Esto permite que, en una sola sesión, los alumnos vean resultados tangibles, manteniendo su atención.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777063291178-eja6l4bt0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: Luces, Cámara… ¡Aprendemos!<br />Producto final: Creación de cortometrajes<br />Herramientas: Tablets y Pixabay<br />1. Herramientas Digitales Propuestas<br />Para la realización del producto final, utilizaremos una combinación de dos herramientas:</p>\n<p>Pixabay: Como banco de recursos para obtener música, efectos de sonido y clips de apoyo.<br />Editor de vídeo para Tablet iMovie: Como herramienta de montaje y ensamblaje final.<br />2. Objetivo <br />El objetivo es que el alumnado de Infantil experimente el proceso completo de producción audiovisual. Se busca que aprendan a buscar recursos sonoros y visuales que complementen sus propias grabaciones para generar emociones, utilizando la interfaz táctil de la tablet para montar las escenas, ajustar el sonido y añadir títulos de forma intuitiva, todo ello con ayuda del docente.</p>\n<p>3. Justificación de la elección<br />Esta propuesta se adapta idealmente a la etapade Infantil por los siguientes motivos:</p>\n<p>Interacción Táctica y Motivación: Los niños de esta edad presentan destreza con dispositivos táctiles. El uso de la tablet permite que el montaje del cortometraje sea una experiencia física y directa (cortar y mover clips con los dedos), lo que resulta muy motivador para ellos/as.<br />Versatilidad del Flujo de Trabajo: La combinación es excelente; los alumnos pueden grabar sus escenas con la cámara de la tablet, descargar un efecto de sonido de lluvia o una música de suspense en Pixabay, e integrarlo todo al instante en el editor.<br />Contexto y Disponibilidad: La mayoría de los centros actuales cuentan con dotación de tablets. Al ser aplicaciones ligeras, permiten trabajar por grupos de forma autónoma en cualquier espacio del aula o del centro.<br />Competencia Digital y Ética: El uso de Pixabay es clave para trabajar el respeto a los derechos de autor desde edades tempranas. En lugar de usar cualquier canción de moda que pueda ser bloqueada por copyright, aprenden a seleccionar música libre, entendiendo el valor de las licencias abiertas y la calidad del audio en una producción profesional.<br />Adaptación a la Edad: Los editores de tablet están diseñados para resultados rápidos y visuales. Esto permite que, en una sola sesión, los alumnos vean resultados tangibles, manteniendo su atención.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777063607397-1mzmu4prq</odeBlockId>
+      <blockName>HERRAMIENTAS DE CURACIÓN DE CONTENIDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777063607397-1mzmu4prq</odeBlockId>
+          <odeIdeviceId>idevice-1777063607395-1swnrlw3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAbjAlG4AA41-5EM0dw==">https://www.symbaloo.com/shared/AAAAAbjAlG4AA41-5EM0dw==</a></p>
+<p></p>
+<p><a href="https://padlet.com/adelimolinapastor/mi-sandbox-pico-yk7pqdy2be0k5ogb">https://padlet.com/adelimolinapastor/mi-sandbox-pico-yk7pqdy2be0k5ogb</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777063607395-1swnrlw3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAbjAlG4AA41-5EM0dw==\">https://www.symbaloo.com/shared/AAAAAbjAlG4AA41-5EM0dw==</a></p>\n<p></p>\n<p><a href=\"https://padlet.com/adelimolinapastor/mi-sandbox-pico-yk7pqdy2be0k5ogb\">https://padlet.com/adelimolinapastor/mi-sandbox-pico-yk7pqdy2be0k5ogb</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777063703092-ujm8shjnr</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777063703092-ujm8shjnr</odeBlockId>
+          <odeIdeviceId>idevice-1777063703090-c0sd3fai2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1rN8tIBp60inFo8vLFJRq6kYtMReynnuS/view">https://drive.google.com/file/d/1rN8tIBp60inFo8vLFJRq6kYtMReynnuS/view</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777063703090-c0sd3fai2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1rN8tIBp60inFo8vLFJRq6kYtMReynnuS/view\">https://drive.google.com/file/d/1rN8tIBp60inFo8vLFJRq6kYtMReynnuS/view</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777063815423-hd7dkjq4x</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN (Guía didáctica)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777063815423-hd7dkjq4x</odeBlockId>
+          <odeIdeviceId>idevice-1777063815420-e4qof4d2p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1HVn3YxWUTWgBUn3H96cKbpHvAf7X52UP18pJGrMVoeI/edit?tab=t.0#heading=h.v3kpl8zcktok">https://docs.google.com/document/d/1HVn3YxWUTWgBUn3H96cKbpHvAf7X52UP18pJGrMVoeI/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777063815420-e4qof4d2p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1HVn3YxWUTWgBUn3H96cKbpHvAf7X52UP18pJGrMVoeI/edit?tab=t.0#heading=h.v3kpl8zcktok\">https://docs.google.com/document/d/1HVn3YxWUTWgBUn3H96cKbpHvAf7X52UP18pJGrMVoeI/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777063931857-zg5x50e1x</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777063931857-zg5x50e1x</odeBlockId>
+          <odeIdeviceId>idevice-1777063931855-srwptzr71</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1QFWMLCpVyZ1BEuwApf_p9BM9dtZatBFbl_zkiFBWI9k/edit?tab=t.0">https://docs.google.com/document/d/1QFWMLCpVyZ1BEuwApf_p9BM9dtZatBFbl_zkiFBWI9k/edit?tab=t.0</a></p>
+<p><a href="https://drive.google.com/file/d/1-_hupvB-SM-V-inzuirIz5_Y9rwoQzEQ/view">https://drive.google.com/file/d/1-_hupvB-SM-V-inzuirIz5_Y9rwoQzEQ/view</a></p>
+<p>Los instrumentos de evaluación que voy a utilizar para evaluar a mi alumnado en las diferentes tareas de la situación de aprendizaje “Luces, cámara...¡Aprendemos!” son la rúbrica y la lista de cotejo.<br />La combinación de ambos instrumentos asegura una evaluación completa del alumnado:<br />1. La Rúbrica aporta el rigor científico y la información necesaria para el expediente del alumno y la programación docente.<br />2. La lista de cotejo es una de las herramientas de evaluación cualitativa más eficaces en la etapa de Educación Infantil.<br />El primer instrumento es la rúbrica, el cual he selecccionado debido a que en la etapa de Educación Infantil son un instrumento de evaluación muy valiosos para medir procesos complejos, ya que no se realizan exámenes al alumnado de esta etapa educativa.<br />En nuestro proyecto de cine la rúbrica nos permite a los docentes observar criterios específicos sin dejarnos llevar solo por la impresión general.<br />Además permite desglosar las competencias clave y al tener diferentes niveles de logro permiten respetar los distintos ritmos de aprendizaje de cada niño y detectar necesidades específicas de cada uno de ellos.<br />Para que esta rúbrica sea realmente útil a los 4 años, voy a complementar el proceso de evaluación con las siguientes estrategias:<br />-El Diario de Rodaje: Anotaremos anécdotas o frases literales que digan los niños durante el proceso. A veces, la mejor evaluación es una frase que demuestre que han entendido cómo se hace "magia" en el cine.<br />-Autoevaluación Visual: Al terminar, usaremos una "Diana de Evaluación" con pictogramas (una cámara, una cara sonriente, un grupo de amigos) donde ellos mismos pongan una pegatina en lo que más les ha gustado o lo que creen que han hecho mejor.<br />-El Visionado: La evaluación final ocurre cuando ellos ven el cortometraje editado.<br />Observa sus reacciones: ¿Se reconocen? ¿Identifican a sus compañeros? ¿Entienden la historia que han creado?<br />-Tip de experto: En infantil, el "producto final" es la excusa; el verdadero aprendizaje está en los ensayos, en decidir quién lleva la capa roja y en aprender que hay que estar en silencio cuando el compañero habla.<br />El segundo instrumento seleccionado es la lista de cotejo.<br />La lista de cotejo es un instrumento de evaluación que contiene una serie de indicadores o ítems (conductas, habilidades o conceptos) claramente definidos. Se estructura como un cuadro de doble entrada donde se registra la presencia o ausencia de dichos rasgos mediante una escala.<br />A diferencia de la rúbrica, que mide niveles de calidad, la lista de cotejo se centra en constatar si un criterio se ha manifestado durante el proceso de aprendizaje.<br />Utilidad en la Situación de Aprendizaje<br />Para un proyecto de cine con niños de 4 años, la lista de cotejo resulta indispensable por los siguientes motivos:<br />• Objetividad en la Observación Directa: En una actividad tan dinámica como la grabación de un corto, el docente no puede evaluar todo a la vez. La lista permite focalizar la mirada en aspectos concretos (¿Identifica el rol del director?, ¿Participa en la creación del decorado?) sin perderse en la<br />subjetividad.<br />• Seguimiento del Proceso (Evaluación Formativa): No solo sirve para el final. Se puede aplicar en diferentes fases (asamblea inicial, rodaje, visionado)<br />para detectar quién necesita más apoyo en el desarrollo de sus habilidades sociales o expresivas.<br />• Evaluación de Competencias Específicas: Permite verificar hitos del desarrollo propios de los 4 años, como:<br />• Competencia Lingüística: ¿Utiliza el vocabulario nuevo (cámara, acción, toma)?<br />• Competencia Social: ¿Respeta el turno de palabra en el guion?<br />• Competencia Ciudadana: ¿Cuida el material compartido?<br />• Simplicidad y Rapidez: Dada la ratio de alumnos y el ritmo de la etapa de Infantil, es un método ágil que permite obtener una visión general del grupo-<br />clase de un solo vistazo.<br />Para que la evaluación en "Un cole de cine" sea eficaz, debemos entenderla como un proceso continuo y no como un examen final. En Educación Infantil, la observación es nuestra principal fuente de información.<br />A continuación, detallo qué evaluar en cada fase y el procedimiento técnico para gestionar los datos.<br />1. Momentos del proceso: ¿Qué evaluar y cuándo?<br />La evaluación se divide en tres paradas estratégicas:<br />A. Evaluación Inicial (Diagnóstica)<br />• Momento: Durante la asamblea de presentación del proyecto (la "lluvia de ideas").<br />• Qué evaluar: Conocimientos previos sobre el cine (¿saben qué es una cámara?, ¿conocen los géneros?).<br />• Instrumento: Lista de cotejo (Sí/No) para registrar rápidamente qué conceptos básicos ya dominan.<br />B. Evaluación Procesual (Formativa)<br />• Momento: Durante los talleres de creación (fabricación de decorados, ensayos, rodaje).<br />• Qué evaluar: Actitudes, habilidades sociales, destrezas motoras y participación.<br />• Instrumento: Rúbrica de observación y anecdotario. Es el momento de ver cómo resuelven conflictos en el set de rodaje.<br />C. Evaluación Final (Sumativa y Global)<br />• Momento: Tras el estreno de la película o cortometraje.<br />• Qué evaluar: El producto final, pero sobre todo el grado de consecución de los objetivos planteados al inicio.<br />• Instrumento: Rúbrica final y autoevaluación (mediante dibujos o emoticonos donde el niño valora su propio trabajo).<br />2. Obtención y Análisis de Datos<br />¿Cómo se obtienen los datos?<br />1. Observación Directa: El docente observa mientras los niños juegan a ser directores o actores.<br />2. Producciones de los alumnos: Dibujos del guion gráfico (storyboard), la propia grabación del video o el diseño de las entradas del cine.<br />3. Registros Audiovisuales: Grabar pequeñas sesiones de trabajo permite al docente revisar detalles que pasaron desapercibidos en el momento (muy útil para completar las rúbricas a posteriori).<br />¿Cómo se analizan?<br />De la Lista de Cotejo (Datos Cuantitativos)<br />La lista de cotejo nos da una visión rápida y binaria.<br />• Análisis: Se suma el número de "Sí". Si el 80% de la clase no identifica la figura del director al inicio, el docente sabe que debe reforzar ese contenido<br />antes de empezar a rodar. Es una brújula inmediata.<br />De la Rúbrica (Datos Cualitativos y Progresivos)<br />La rúbrica ofrece una visión más profunda del aprendizaje.<br />• Triangulación: Se comparan las rúbricas de diferentes momentos. Si un alumno empezó en "Iniciado" en expresión oral y terminó en "Conseguido", el<br />análisis confirma un progreso significativo.<br />• Identificación de Patrones: Si la mayoría de la clase se queda en el nivel "En proceso" en el criterio de "Trabajo en equipo", el análisis indica que la<br />actividad quizás era demasiado compleja para su nivel madurativo o que necesitan más mediación del adulto.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777063931855-srwptzr71","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1QFWMLCpVyZ1BEuwApf_p9BM9dtZatBFbl_zkiFBWI9k/edit?tab=t.0\">https://docs.google.com/document/d/1QFWMLCpVyZ1BEuwApf_p9BM9dtZatBFbl_zkiFBWI9k/edit?tab=t.0</a></p>\n<p><a href=\"https://drive.google.com/file/d/1-_hupvB-SM-V-inzuirIz5_Y9rwoQzEQ/view\">https://drive.google.com/file/d/1-_hupvB-SM-V-inzuirIz5_Y9rwoQzEQ/view</a></p>\n<p>Los instrumentos de evaluación que voy a utilizar para evaluar a mi alumnado en las diferentes tareas de la situación de aprendizaje “Luces, cámara...¡Aprendemos!” son la rúbrica y la lista de cotejo.<br />La combinación de ambos instrumentos asegura una evaluación completa del alumnado:<br />1. La Rúbrica aporta el rigor científico y la información necesaria para el expediente del alumno y la programación docente.<br />2. La lista de cotejo es una de las herramientas de evaluación cualitativa más eficaces en la etapa de Educación Infantil.<br />El primer instrumento es la rúbrica, el cual he selecccionado debido a que en la etapa de Educación Infantil son un instrumento de evaluación muy valiosos para medir procesos complejos, ya que no se realizan exámenes al alumnado de esta etapa educativa.<br />En nuestro proyecto de cine la rúbrica nos permite a los docentes observar criterios específicos sin dejarnos llevar solo por la impresión general.<br />Además permite desglosar las competencias clave y al tener diferentes niveles de logro permiten respetar los distintos ritmos de aprendizaje de cada niño y detectar necesidades específicas de cada uno de ellos.<br />Para que esta rúbrica sea realmente útil a los 4 años, voy a complementar el proceso de evaluación con las siguientes estrategias:<br />-El Diario de Rodaje: Anotaremos anécdotas o frases literales que digan los niños durante el proceso. A veces, la mejor evaluación es una frase que demuestre que han entendido cómo se hace \"magia\" en el cine.<br />-Autoevaluación Visual: Al terminar, usaremos una \"Diana de Evaluación\" con pictogramas (una cámara, una cara sonriente, un grupo de amigos) donde ellos mismos pongan una pegatina en lo que más les ha gustado o lo que creen que han hecho mejor.<br />-El Visionado: La evaluación final ocurre cuando ellos ven el cortometraje editado.<br />Observa sus reacciones: ¿Se reconocen? ¿Identifican a sus compañeros? ¿Entienden la historia que han creado?<br />-Tip de experto: En infantil, el \"producto final\" es la excusa; el verdadero aprendizaje está en los ensayos, en decidir quién lleva la capa roja y en aprender que hay que estar en silencio cuando el compañero habla.<br />El segundo instrumento seleccionado es la lista de cotejo.<br />La lista de cotejo es un instrumento de evaluación que contiene una serie de indicadores o ítems (conductas, habilidades o conceptos) claramente definidos. Se estructura como un cuadro de doble entrada donde se registra la presencia o ausencia de dichos rasgos mediante una escala.<br />A diferencia de la rúbrica, que mide niveles de calidad, la lista de cotejo se centra en constatar si un criterio se ha manifestado durante el proceso de aprendizaje.<br />Utilidad en la Situación de Aprendizaje<br />Para un proyecto de cine con niños de 4 años, la lista de cotejo resulta indispensable por los siguientes motivos:<br />• Objetividad en la Observación Directa: En una actividad tan dinámica como la grabación de un corto, el docente no puede evaluar todo a la vez. La lista permite focalizar la mirada en aspectos concretos (¿Identifica el rol del director?, ¿Participa en la creación del decorado?) sin perderse en la<br />subjetividad.<br />• Seguimiento del Proceso (Evaluación Formativa): No solo sirve para el final. Se puede aplicar en diferentes fases (asamblea inicial, rodaje, visionado)<br />para detectar quién necesita más apoyo en el desarrollo de sus habilidades sociales o expresivas.<br />• Evaluación de Competencias Específicas: Permite verificar hitos del desarrollo propios de los 4 años, como:<br />• Competencia Lingüística: ¿Utiliza el vocabulario nuevo (cámara, acción, toma)?<br />• Competencia Social: ¿Respeta el turno de palabra en el guion?<br />• Competencia Ciudadana: ¿Cuida el material compartido?<br />• Simplicidad y Rapidez: Dada la ratio de alumnos y el ritmo de la etapa de Infantil, es un método ágil que permite obtener una visión general del grupo-<br />clase de un solo vistazo.<br />Para que la evaluación en \"Un cole de cine\" sea eficaz, debemos entenderla como un proceso continuo y no como un examen final. En Educación Infantil, la observación es nuestra principal fuente de información.<br />A continuación, detallo qué evaluar en cada fase y el procedimiento técnico para gestionar los datos.<br />1. Momentos del proceso: ¿Qué evaluar y cuándo?<br />La evaluación se divide en tres paradas estratégicas:<br />A. Evaluación Inicial (Diagnóstica)<br />• Momento: Durante la asamblea de presentación del proyecto (la \"lluvia de ideas\").<br />• Qué evaluar: Conocimientos previos sobre el cine (¿saben qué es una cámara?, ¿conocen los géneros?).<br />• Instrumento: Lista de cotejo (Sí/No) para registrar rápidamente qué conceptos básicos ya dominan.<br />B. Evaluación Procesual (Formativa)<br />• Momento: Durante los talleres de creación (fabricación de decorados, ensayos, rodaje).<br />• Qué evaluar: Actitudes, habilidades sociales, destrezas motoras y participación.<br />• Instrumento: Rúbrica de observación y anecdotario. Es el momento de ver cómo resuelven conflictos en el set de rodaje.<br />C. Evaluación Final (Sumativa y Global)<br />• Momento: Tras el estreno de la película o cortometraje.<br />• Qué evaluar: El producto final, pero sobre todo el grado de consecución de los objetivos planteados al inicio.<br />• Instrumento: Rúbrica final y autoevaluación (mediante dibujos o emoticonos donde el niño valora su propio trabajo).<br />2. Obtención y Análisis de Datos<br />¿Cómo se obtienen los datos?<br />1. Observación Directa: El docente observa mientras los niños juegan a ser directores o actores.<br />2. Producciones de los alumnos: Dibujos del guion gráfico (storyboard), la propia grabación del video o el diseño de las entradas del cine.<br />3. Registros Audiovisuales: Grabar pequeñas sesiones de trabajo permite al docente revisar detalles que pasaron desapercibidos en el momento (muy útil para completar las rúbricas a posteriori).<br />¿Cómo se analizan?<br />De la Lista de Cotejo (Datos Cuantitativos)<br />La lista de cotejo nos da una visión rápida y binaria.<br />• Análisis: Se suma el número de \"Sí\". Si el 80% de la clase no identifica la figura del director al inicio, el docente sabe que debe reforzar ese contenido<br />antes de empezar a rodar. Es una brújula inmediata.<br />De la Rúbrica (Datos Cualitativos y Progresivos)<br />La rúbrica ofrece una visión más profunda del aprendizaje.<br />• Triangulación: Se comparan las rúbricas de diferentes momentos. Si un alumno empezó en \"Iniciado\" en expresión oral y terminó en \"Conseguido\", el<br />análisis confirma un progreso significativo.<br />• Identificación de Patrones: Si la mayoría de la clase se queda en el nivel \"En proceso\" en el criterio de \"Trabajo en equipo\", el análisis indica que la<br />actividad quizás era demasiado compleja para su nivel madurativo o que necesitan más mediación del adulto.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777064363852-xh390815x</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777064363852-xh390815x</odeBlockId>
+          <odeIdeviceId>idevice-1777064363851-0tkupktvq</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">IMPLICACIÓN</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para implementar el Diseño Universal para el Aprendizaje (DUA) en la Situación de Aprendizaje "Luces, cámara... ¡Aprendemos!", debemos eliminar las barreras de aprendizaje desde la planificación, permitiendo que todos los niños y niñas de 4 años, independientemente de sus capacidades, participen plenamente en la creación del cortometraje.</p>
+<p>El DUA se organiza en tres redes neuronales que corresponden a los tres principios fundamentales:</p>
+<p>&nbsp;<br>1. Principio de Compromiso: El "PORQUÉ" del aprendizaje<br>El objetivo es captar el interés y mantener la motivación de todo el alumnado.</p>
+<p>Proporcionar opciones para captar el interés: Dado que a los 4 años el cine es fascinante, permitiremos que el alumnado elija el género o la temática del corto (fantasía, animales, su propia vida en el cole).<br>Diseño de roles flexibles: No todos los niños quieren estar frente a la cámara. Ofreceremos opciones como: director (organiza), claquetista (marca el inicio), técnico de decorado (plástica) o actores. Esto permite que el niño con timidez extrema o dificultades de comunicación se sienta igual de valioso detrás de la escena.<br>Ambiente seguro y de apoyo: Crear un "set de rodaje" predecible donde el error sea visto como una "toma falsa" divertida, reduciendo la ansiedad ante la cámara.<br></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">COMPRENSIÓN</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>2. Principio de Representación: El "QUÉ" del aprendizaje<br>Presentar la información en múltiples formatos para que todos puedan percibirla y comprenderla.</p>
+<p>Información visual y auditiva: Para explicar qué es un rodaje, no solo hablaremos. Usaremos fragmentos de películas, pictogramas que expliquen los pasos (guion → rodaje → estreno) y onomatopeyas para el sonido.<br>Apoyo al lenguaje y vocabulario: Utilizaremos tarjetas visuales (flashcards) para términos como "acción", "corten" o "cámara". Esto es vital para alumnos con TEL (Trastorno Específico del Lenguaje) o alumnos extranjeros.<br>Comprensión a través de lo tangible: El concepto de "encuadre" se puede enseñar con marcos de cartón físicos que los niños sostengan frente a sus ojos, convirtiendo una idea abstracta en algo manipulativo.<br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776890756876-myvay5zh0</odePageId>
+      <odeBlockId>block-1777126774158-mgdcaw3na</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776890756876-myvay5zh0</odePageId>
+          <odeBlockId>block-1777126774158-mgdcaw3na</odeBlockId>
+          <odeIdeviceId>idevice-1777126774155-0oy5d50a0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SITUACIÓN DE APRENDIZAJE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SItuación de Aprendizaje para segundo ciclo de educación infantil (4 años).</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">ADELA MOLINA PASTOR</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
